@@ -1,0 +1,22 @@
+.MONEYh{
+    display: flex;
+    justify-content: center;
+}
+.img{
+    margin-top: 30px;
+}
+.income{
+    font-size: 25px;
+    font-family: "Times New Roman", Times, serif;
+}
+.koli{
+    width: 100px;
+    padding-left:35px ;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+.kajol{
+    height:689px;
+    margin-top: 16px;
+    
+}
